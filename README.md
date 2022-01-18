@@ -1,6 +1,6 @@
 # SQL-Case-Study-Pizza-Runner
 
-The case study is based on Danny Ma 8 Weeks SQL Challenge
+The case study is based on [Danny Ma 8 Weeks SQL Challenge](https://8weeksqlchallenge.com/case-study-2/) 
 
 **Introduction**
 
